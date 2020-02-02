@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SampleAppForTest</string>
+    <string name="login_up">LOGIN</string>
+    <string name="login_low">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="alert_username">* โปรดระบุ Username</string>
+    <string name="alert_password">* โปรดระบุ Password</string>
+    <string name="welcome">ยินดีต้อนรับ\nเข้าสู่ระบบ</string>
+    <string name="logout">Logout</string>
+    <string name="ok">ตกลง</string>
+    <string name="wrong_username_password">Username หรือ Password ไม่ถูกต้อง</string>
+    <string name="logout_success">คุณได้ทำการออกจากระบบเรียบร้อยแล้ว</string>
+</resources>
